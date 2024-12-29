@@ -6,7 +6,7 @@
 * **hy it matters:** HAR has applications in areas like health monitoring, fitness tracking, and improving human-computer interactions.
 * **What it does:** The pipeline processes raw sensor data, extracts meaningful features, trains a classification model, and predicts activity labels for new data inputs.
 
-  **Feature**
+**Feature**
 * End-to-end pipeline: Data preprocessing, feature engineering, model training, and evaluation.
 * Accurate activity classification using advanced machine learning techniques.
 * Deployment-ready Python script for real-time predictions.
